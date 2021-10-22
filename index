@@ -5,10 +5,10 @@
   <meta name="description" content="Come and watch me play games and talk about goofy stuff">
   
   <meta name="twitter:card" content="player" />
-  <meta name="twitter:image" content="https://www.mydomain.com/image.png" />  
-  <meta name="twitter:title" content="This is the title of the page!" />
-  <meta name="twitter:description" content="This is a longer description of the page." />
-  <meta name="twitter:player" content="https://www.mydomain.com/video.mp4" />
+  <meta name="twitter:image" content="https://www.twitch.tv/noobgaming365" />  
+  <meta name="twitter:title" content="I am live!" />
+  <meta name="twitter:description" content="Come watch me play games and talk about goofy stuff." />
+  <meta name="twitter:player" content="https://player.twitch.tv/?channel=noobgaming365&amp;player=facebook&amp;autoplay=true&amp;parent=meta.tag" />
   <meta name="twitter:player:width" content="360" />
   <meta name="twitter:player:height" content="200" />
   
